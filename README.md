@@ -1,7 +1,7 @@
 # Tutorial - Como Respirar?
 
 ## 📒 Descrição
-Tutorial extremamente imporetante com o passo a passo para uma boa respiração
+Tutorial extremamente importante com o passo a passo para uma boa respiração
 
 ## 🤖 Tecnologias Utilizadas
 - ChatGPT
